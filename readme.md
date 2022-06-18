@@ -6,10 +6,10 @@ This is the beta version. You may find various bugs. So please do not hesitate t
 ---
 
 ## Game info
-Current version: (beta) 1.2  
-First released: June 16, 2018  
-Idea: Abdur Razzaq  
-Made by: mdvirus  
+**Current version:** (beta) 1.2  
+**First released:** June 16, 2018  
+**Idea:** Abdur Razzaq  
+**Made by:** [mdvirus](https://mdvirus.wordpress.com)
 
 ---
 
